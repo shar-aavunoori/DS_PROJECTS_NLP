@@ -1,4 +1,4 @@
-This repository contains all the assignments and projects done as a part of [Post Graduate Diploma in Machine Learning & Artificial Intelligence course from UpGrad & IIITB](https://www.upgrad.com/data-science-pgd-iiitb/) during 2020
+This repository contains all the assignments and projects done as a part of my learning and passion.
 ## Table of Content
 - **Exploratory Data Analysis**
   - [Spark Funds Investment Analysis](Spark_Funds_Investment_Analysis)
