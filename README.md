@@ -1,4 +1,4 @@
-This repository contains all the assignments and projects done as a part of my learning and passion.
+This repository contains all the assignments and projects done as a part of my learning.
 ## Table of Content
 - **Exploratory Data Analysis**
   - [Spark Funds Investment Analysis](Spark_Funds_Investment_Analysis)
